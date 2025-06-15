@@ -73,182 +73,6 @@ CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8
 CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
-卫视频道,#genre#
-北京卫视,https://nptv.freetv.top/nptv/beijing.m3u8
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=fea03586147486830f10198d1357ddbdb1f90d8a4fabed7f599b91df7cd173b82859573313e2a64bdbd02e7d5423e90cdb9bcc45339795dde8be4befbdbab16b89d440fa21688efa23203758b0
-江苏卫视,https://nptv.freetv.top/nptv/江苏.m3u8
-浙江卫视,https://nptv.freetv.top/nptv/zhejiang.m3u8
-湖南卫视,https://nptv.freetv.top/nptv/hunan.m3u8
-湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=c11ab37089b08b36b901c4a2b424fdc56b62cf85ce22799954221dfb115dc4aa5e75fe6d38966f51998989eda40a5cd26c2f0dcf4d9c3feac17664585c7cb85e992bfd1a7209ee633417590889
-广东卫视,https://nptv.freetv.top/nptv/guangdong.m3u8
-广西卫视,https://nptv.freetv.top/nptv/guangxi.m3u8
-黑龙江卫视,https://nptv.freetv.top/nptv/heilongjiang.m3u8
-海南卫视,https://nptv.freetv.top/nptv/hainan.m3u8
-重庆卫视,https://nptv.freetv.top/nptv/chongqing.m3u8
-深圳卫视,https://nptv.freetv.top/nptv/shenzheng.m3u8
-四川卫视,https://nptv.freetv.top/nptv/sichuan.m3u8
-河南卫视,https://nptv.freetv.top/nptv/henan.m3u8
-东南卫视,https://nptv.freetv.top/nptv/dongnan.m3u8
-贵州卫视,https://nptv.freetv.top/nptv/guizhou.m3u8
-江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=5003be072445e8d0bbf2ccd7e25d7c5901f1d99d2e736a1c305396c75d17395d3798f1084e8734f5599b24ed51e241be5e1b6824a684372f9ca0ee76e6d6cac231da65564f885da5fb7897d222
-辽宁卫视,https://nptv.freetv.top/nptv/liaoning.m3u8
-安徽卫视,https://nptv.freetv.top/nptv/anhui.m3u8
-河北卫视,https://nptv.freetv.top/nptv/hebei.m3u8
-山东卫视,https://nptv.freetv.top/nptv/shandong.m3u8
-天津卫视,https://nptv.freetv.top/nptv/tianjing.m3u8
-吉林卫视,https://nptv.freetv.top/nptv/jiling.m3u8
-陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=25ab7db9c8d8b355cb9de7d0624865d4f827d7b8bba8d1bb6ec8e3840f056dfc766ab8c16f1f34f1dcee0be941b49d3bbea828020ed464ce1b4eb3d0f9249f17518f894d02bc8352881d2a4249
-甘肃卫视,https://nptv.freetv.top/nptv/gansu.m3u8
-宁夏卫视,https://nptv.freetv.top/nptv/ningxia.m3u8
-内蒙古卫视,https://nptv.freetv.top/nptv/neimenggu.m3u8
-云南卫视,https://nptv.freetv.top/nptv/yunnan.m3u8
-山西卫视,https://nptv.freetv.top/nptv/shanxi.m3u8
-青海卫视,https://nptv.freetv.top/nptv/qinghai.m3u8
-新疆卫视,https://nptv.freetv.top/nptv/xinjiang.m3u8
-西藏卫视,https://nptv.freetv.top/nptv/xizang.m3u8
-大湾区视,https://www.freetv.top/migu/608917627.m3u8?migutoken=7674242feca82e04b47644dfd2d1305d88bea9914356cd5fed2240d549133aef35c795f749704da9bbddade2697d2ecd3eba4ea6f58e46ca419146a8666ee8a14d6f7654f28b494c946acea7d6
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-上海新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=5581b41b98477935ed3c69b4be1ab8140296abd48968ef22c86d8a00035db4b00a3b74eaa0a9922e47324f33a2f1e7ff5ff72af4e823ea35a794e3d4ec03bd855f090a9fd7f8913253da129d60
-上视东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=bb3d9dd2986f70b9ba5fb2edd4bb589000cd913e83319f64f9278bfa30b231152a92b1f1d56c4707445aa8ff070ed97ec8096c187928e2e7317481e9093f3fc6dea83fd54958a305ea37a92c3b
-上海第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=17feca9f17cb391f1ca9385b564d4ca42c1554fd63615167898bef2c72e764f041e0a6493938f73047e69a42317661e149e416b7c796fcd16355326de9a396eca8e44d2dbb62585fba9249ee47
-南京新闻综合频道,https://www.freetv.top/migu/838109047.m3u8migutoken=ddcb17689f784018c80fb2f38a48d9a6bb0aac918fefabedbcc315ed6216282d30cbe78052cf4aec796dec28c359c977510fbade23eef9724357b86f9da7f21aaad1bc3801a28fcd1b8c6dae96
-南京教科频道,https://www.freetv.top/migu/838153729.m3u8?migutoken=48b95e11466807ac7363452095a537a81b0a6dab0b4e14043cd79e9313a8137270a5238278d8b6b7191f6c806b5a14fce0d9b3a09e7eeab42af802dc6f9731e0c092629b56db610a1811a9b0da
-南京十八频道,https://www.freetv.top/migu/838151753.m3u8?migutoken=f817bde7b7e6296448c7f86d076fa83f37e7aafd84c95d7ca38a61dcef3aaa2350adbb41a6067cefd08a71b82b618a0f8396940e6481d3e86d81a2171bafecb4a821a16d42dd991b76f2818236
-体育休闲频道,https://www.freetv.top/migu/626064707.m3u8?migutoken=7652c028e2378f0cd0b6ba262b579cc533c1767cd5b42c150e759dbdb3ea7de8890ce166e7c30848ab3b7bf54af3c17d5aa212327995bb17eaebda13340c6205bc7a70c0902af0a30cd585e41e
-江苏城市频道,https://www.freetv.top/migu/626064714​​.m3u8?migutoken=d4d90c531624dedc21d4daf62e60c84931e92966800ecc228ddfd472a006ce010b7886bfb5ba02e3b43bc4ea450d1885249f086945be6d5cce8f120094bd2fa69e151583bdc2121f193fa73435
-江苏国际,https://www.freetv.top/migu/626064674.m3u8?migutoken=82d9df945e722c3ecb77e9a437f80ad001c46f689dda21c15c2a18ceb5df975d92aa69ebe0d720a744da0bfd64e9fa71e2031046cb4d5a035272e06e651141cf64fcb9f9d2c57c7ff992a43ab9
-江苏教育,https://www.freetv.top/migu/628008321.m3u8?migutoken=55da1b69ad25a6f25cff7d328207e090d42f417439ca4f889ad817fe2fbaeb2522d21b22a9c3829682d6320fca14ab9ecdfa63d25f16dbebc18b2e040c1db0428cdfc96b2ebade0efafacf842c
-江苏影视频道,https://www.freetv.top/migu/626064697.m3u8?migutoken=808f431db7548df8819b059ead536625109c62ed2064aba37bf7ca378f4197c522aa663c1f08d511d328967814397d34f1d0fb78a903dcff23ecebf302a6a2c9a58d7067d6425aadb4d2a3d137
-江苏综艺频道,https://www.freetv.top/migu/626065193.m3u8?migutoken=249c9d659af324a8d3727a7b05caf630311f952207893d6603535c472ec67e9c6deda198542901739abc7b9224445a74b714c054790625a1b7b4cbfeaced1e2f1d355e9998e9d8aa48e44d5ef0
-公共新闻频道,https://www.freetv.top/migu/626064693.m3u8?migutoken=75c83c98698e6c6691c7c0daf101050a075d18fad370ef7e7bdbe18a68bc1b8c5d78250791c16dcdb376f3b449724ce8fb37812265f1732b8389f67afcc2251474d850485fdc043245a04468fa
-淮安新闻综合,https://www.freetv.top/migu/639731826.m3u8?migutoken=103bb4fdb8af016c83e90b03430bea263a84e5880d1adb6c6e6bf281b033f764063ea715dfe8e8df6eda52851588a62eeba568ccdc158b830f7e942c1ef64914dc173098853bdd9e828b951027
-泰州新闻综合,https://www.freetv.top/migu/639731818.m3u8?migutoken=777354e6dee42f377cc1ffdcb64e84d25e4ad38a3afca94bd66dea6c5c9e8fcdd3309749c49ee52918a7bd725c13c4ac674bf0ed73ba6882b62dc81b0bc29e531055324929cd5823d3c331ad52
-连云港新闻综合,https://www.freetv.top/migu/639731715.m3u8?migutoken=3614db34cbd47db175cf9aac881b614a8f3d201e863e21e76804611e578143113f88d7996f2d84fa6fe72cdf5044dd082648293f8c2d0b1aaf279ae8d5e6b64590cb703eef095f7419ea30e2aa
-宿迁新闻综合,https://www.freetv.top/migu/639731832.m3u8?migutoken=35ed8cc7f8bad8abf3f9003814c2313c5ea9e4aca5747e01e1179adf366dccbcb8d832af1c37c73d954637bf2da8ee8595a511ce0522983d362f1324289e19da575cdc0158dbd1640e7ae98037
-徐州新闻综合,https://www.freetv.top/migu/639731747.m3u8?migutoken=b3011995c6e161ac236e4a93b2658792cfe2878aa3423cccce27c2767f104663e144bc0f39aa25ae0f634bb8d1e44ea8af8ed56845625fa6d2b65a42e980deb73d9d219bdc3c69313fe295e5ef
-优漫卡通频道,https://www.freetv.top/migu/626064703.m3u8?migutoken=2b9fe60463f5373c1afe59cdbb9e91946e80a03be25a0b642ec435a5d61dcc627605983b825b0a4ebae8e1529580f88c4bdc8514403ca370ceeff51221642fdb45d8627f6cb9fba67f42cfe335
-中国航天,https://www.freetv.top/migu/617432318.m3u8?migutoken=c1a0036777cf49319b3539ecf7252f43e36c12b5550a137b2471546d623d383d53aa776e93ae32f586e5c8ac55cfbea82dc6bd93bbfcc51345b0ebbc9fd1f2b5cd3081988f8dd0d7dd057828e2
-新片投影厅,https://www.freetv.top/migu/619495952.m3u8?migutoken=16e1ef88e522b3ded1b1f9adac95a74ca4709f3248f162b37b06911524f00bf8419f79b0bc3ba0a423b3b1469b62d65db231d97301ed0a50320a8b8eac7556a4e2b9f3bf26241ef8cd3c1847b8
-CHC影迷电影,https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=571dc311fc83511dc0126e97e983b04794a2b02b54eb64ac4f​​436dbd075eba6b27b583ca4584624bac092e818ed33365ff0f3394a100fe2ddd90d6dbf65231cef435c6d012ea2b30623f9eed5a
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-和美乡途轮播台,https://www.freetv.top/migu/713591450.m3u8?migutoken=b41387179ba0076f86b91915c0bd70d735db29100d9cc7021e76696260e40a3c02568cfd140839926fcfb97634ab4c40b5ce40ff38455b91b2948f4cfb70fc65dbed367413962dd921603777c7
-高清大片,https://www.freetv.top/migu/629943678.m3u8?migutoken=d0330d482356a730dfd3dec9e902f966084da9c5ae56cb2f8be33750d282f115e715cf076b59a6bfd6a5b932dff190d0a7c5cac51075ceb5e54a229dfcbd3ed60c75e49d11b1aeb77db7aed17f
-南方影视,https://www.freetv.top/migu/614961829.m3u8?migutoken=9c3221cc9735d5f4ba8308730f28fb4e1301cd325cd13f2a227ae2d9ca3ab0e3a18804190ee3374c513f20d3ee432db01d731599f92d3b540c1a6744bcf29aa4094fcfedaea88c2aaaaf47612b
-红色轮播台,https://www.freetv.top/migu/713600957.m3u8?migutoken=075bf1989281115dfaf51683f0a468242dbf0bfb6e10d7cb88602203ee5fc55ebd53608d98c9af8c5547cb7918c225eed3449d365de3d96d4408719d3bd2253d21780bf1685c20421e63b234b5
-深度对话,https://www.freetv.top/migu/625703337.m3u8?migutoken=a83f312f981f8d495a2e9cbda363bdf9b93dcb109abc1e987e2514ddf62a543e7b6153b3e7cefcf37078659672b548bb68eba8e9b05a8e983d96e34fb453286ac1a8c461ad33bcc98db28c8f8b
-吉林卫视,http://119.50.5.156:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://119.50.5.156:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://119.50.5.156:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://119.50.5.156:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://119.50.5.156:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://119.50.5.156:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://119.50.5.156:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-上海卫视,http://119.50.5.156:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://119.50.5.156:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://119.50.5.156:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://119.50.5.156:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://119.50.5.156:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://119.50.5.156:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://119.50.5.156:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://119.50.5.156:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://119.50.5.156:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://119.50.5.156:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://119.50.5.156:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://119.50.5.156:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视都市,http://119.50.5.156:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视影视,http://119.50.5.156:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视生活,http://119.50.5.156:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-长影频道,http://119.50.5.156:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-天津|滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-天津|滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-浙江卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.153:5540
-重庆卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.158:5540
-云南卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.63:5540
-内蒙古卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.36:5540
-宁夏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.66:5540
-青海卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.57:5540
-山西卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.53:5540
-西藏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.54:5540
-西藏卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.54:5540
-新疆卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.39:5540
-海南三沙卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.200:5540
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-CETV1,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-CETV4,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-吉林省频道,#genre#
-吉林卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.111:5540
-吉林教育,http://nas.tuyuannet.cn:8800/rtp/239.37.0.126:5540
-吉林长影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.125:5540
-吉林市公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.128:5540
-吉林市科教,http://nas.tuyuannet.cn:8800/rtp/239.37.0.129:5540
-吉林市新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.127:5540
-四平1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.130:5540
-四平2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.131:5540
-通化1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.132:5540
-通化2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.133:5540
-通化3,http://nas.tuyuannet.cn:8800/rtp/239.37.0.134:5540
-白山公共1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.137:5540
-白山公共2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.138:5540
-集安综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.145:5540
-吉林磐石,http://nas.tuyuannet.cn:8800/rtp/239.37.0.164:5540
-吉林延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-吉林延边1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.248:5540
-吉林延边2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
-吉林图们,http://nas.tuyuannet.cn:8800/rtp/239.37.0.166:5540
-吉林延吉,http://nas.tuyuannet.cn:8800/rtp/239.37.0.167:5540
-吉林梨树新闻普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.168:5540
-吉林双辽普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.169:5540
-吉林公主岭综合普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.170:5540
-吉林伊通1普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.171:5540
-吉林柳河综合普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.172:5540
-吉林梅河口普清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.173:5540
-吉林辉南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.174:5540
-镇赉综合http://nas.tuyuannet.cn:8800/rtp/239.37.0.175:5540
-吉林通榆,http://nas.tuyuannet.cn:8800/rtp/239.37.0.176:5540
-吉林大安新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.177:5540
-东丰综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.179:5540
-吉林扶余,http://nas.tuyuannet.cn:8800/rtp/239.37.0.180:5540
-吉林吉林舒兰新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.217:5540
-吉林洮南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.218:5540
-吉林抚松,http://nas.tuyuannet.cn:8800/rtp/239.37.0.219:5540
-吉林松原,http://nas.tuyuannet.cn:8800/rtp/239.37.0.246:5540
-吉林松原公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.247:5540
-吉林延边1,http://nas.tuyuannet.cn:8800/rtp/239.37.0.248:5540
-吉林延边2,http://nas.tuyuannet.cn:8800/rtp/239.37.0.249:5540
-吉林辽源新闻综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.250:5540
-吉林辽源公共,http://nas.tuyuannet.cn:8800/rtp/239.37.0.251:5540
-吉林蛟河,http://nas.tuyuannet.cn:8800/rtp/239.37.0.252:5540
 台港澳频道,#genre#
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 中视新闻,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
@@ -678,30 +502,7 @@ tvn story,https://stream.ogtv3.com/live/live1018.m3u8
 스포티비 프라임2,https://play.ogtv2.com/live/live482.m3u8
 스포티비 플러스,https://play.ogtv2.com/live/live487.m3u8
 쿠팡티비,https://play.ogtv2.com/live/live484.m3u8
-体育频道,#genre#
-CCTV5,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-五星体育,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-足球高清,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000CCTV5,,http://nas.tuyuannet.cn:8800/rtp/239.37.0.232:5540
-CCTV5+,http://nas.tuyuannet.cn:8800/rtp/239.37.0.121:5540
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-足球3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-BMAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-Bein体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+
 国外频道,#genre#
 30A TV,https://30a-tv.com/feeds/720p/47.m3u8
 ABC NEWS,https://livetv-fa.tubi.video/abc-news/index_1.m3u8
@@ -736,45 +537,58 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-내 남자의 여자,#genre#
-1집,https://www.yasutv99.xyz/video/m3u8//95b1a0df/index.m3u8
-2집,https://www.yasutv99.xyz/video/m3u8//c047512c/index.m3u8
-3집,https://www.yasutv99.xyz/video/m3u8//d103b343/index.m3u8
-4집,https://www.yasutv99.xyz/video/m3u8//51a69bcb/index.m3u8
-5집,https://www.yasutv99.xyz/video/m3u8//02d2a02e/index.m3u8
-6집,https://www.yasutv99.xyz/video/m3u8//3ce21bfc/index.m3u8
-7집,https://www.yasutv99.xyz/video/m3u8//e3443e7e/index.m3u8
-8집,https://www.yasutv99.xyz/video/m3u8//4f741065/index.m3u8
-9집,https://www.yasutv99.xyz/video/m3u8//4f0a8db8/index.m3u8
-10집,https://www.yasutv99.xyz/video/m3u8//907a6292/index.m3u8
-11집,https://www.yasutv99.xyz/video/m3u8//dc909e8e/index.m3u8
-12집,https://www.yasutv99.xyz/video/m3u8//73c1aa92/index.m3u8
-13집,https://www.yasutv99.xyz/video/m3u8//103a490b/index.m3u8
-14집,https://www.yasutv99.xyz/video/m3u8//21810262/index.m3u8
-15집,https://www.yasutv99.xyz/video/m3u8//63da4c05/index.m3u8
-16집,https://www.yasutv99.xyz/video/m3u8//620e426e/index.m3u8
-17집,https://www.yasutv99.xyz/video/m3u8//45fd8226/index.m3u8
-18집,https://www.yasutv99.xyz/video/m3u8//2f8cc5fc/index.m3u8
-19집,https://www.yasutv99.xyz/video/m3u8//0e4d9cfe/index.m3u8
-20집,https://www.yasutv99.xyz/video/m3u8//8c16d4d6/index.m3u8
-21집,https://www.yasutv99.xyz/video/m3u8//5b781c84/index.m3u8
-22집,https://www.yasutv99.xyz/video/m3u8//47430a53/index.m3u8
-23집,https://www.yasutv99.xyz/video/m3u8//c3c4a87d/index.m3u8
-24집,https://www.yasutv99.xyz/video/m3u8//f49d3124/index.m3u8
-거짓말의 거짓말,#genre#
-1집,https://www.dorajitv66.club/video/m3u8//c5cd9a8d/index.m3u8
-2집,https://www.dorajitv66.club/video/m3u8//86a9501c/index.m3u8
-3집,https://www.dorajitv66.club/video/m3u8//62c4403d/index.m3u8
-4집,https://www.dorajitv66.club/video/m3u8//7641cc69/index.m3u8
-5집,https://www.dorajitv66.club/video/m3u8//9193c18c/index.m3u8
-6집,https://www.dorajitv66.club/video/m3u8//ebfe4002/index.m3u8
-7집,https://www.dorajitv66.club/video/m3u8//9fe05bb1/index.m3u8
-8집,https://www.dorajitv66.club/video/m3u8//633a063d/index.m3u8
-9집,https://www.dorajitv66.club/video/m3u8//d7b9e498/index.m3u8
-10집,https://www.dorajitv66.club/video/m3u8//2ebf7f97/index.m3u8
-11집,https://www.dorajitv66.club/video/m3u8//b281f309/index.m3u8
-12집,https://www.dorajitv66.club/video/m3u8//178292e4/index.m3u8
-13집,https://www.dorajitv66.club/video/m3u8//4f205ebd/index.m3u8
-14집,https://www.dorajitv66.club/video/m3u8//64c20829/index.m3u8
-15집,https://www.dorajitv66.club/video/m3u8//e30c5f95/index.m3u8
-16집,https://www.dorajitv66.club/video/m3u8//b626391e/index.m3u8
+vip_9988,#genre#
+핑크티비,https://stream.ogtv3.com/live/live1013.m3u8
+플레이보이,https://stream.ogtv3.com/live/live1015.m3u8
+Playboy TV,https://ortepe.xyz:17940/tv/playboy/chunks.m3u8
+Eroxxx TV,https://ortepe.xyz:17940/tv/eroxxx/chunks.m3u8
+Brazzers TV,https://ortepe.xyz:17940/tv/brazzers/chunks.m3u8
+Hustler HD,https://ortepe.xyz:17940/tv/hustlerhd/chunks.m3u8
+Hustler TV,https://ortepe.xyz:17940/tv/hustlertv/chunks.m3u8
+Redlight tv,https://ortepe.xyz:17940/tv/redlight/chunks.m3u8
+Penthouse Passion,https://ortepe.xyz:17940/tv/penthousepassion/chunks.m3u8
+Penthouse tv,https://ortepe.xyz:17940/tv/penthouse/chunks.m3u8
+SuperOne tv,https://ortepe.xyz:17940/tv/superone/chunks.m3u8
+Vivid tv,https://ortepe.xyz:17940/tv/vivid/chunks.m3u8
+Dorcel TV,https://ortepe.xyz:17940/tv/dorcel/chunks.m3u8
+OX-AX TV,https://ortepe.xyz:17940/tv/oxax/chunks.m3u8
+Passie TV,https://ortepe.xyz:17940/tv/passie/chunks.m3u8
+Pinko TV,https://ortepe.xyz:17940/tv/pinko/chunks.m3u8
+Extasy TV,https://ortepe.xyz:17940/tv/extasy/chunks.m3u8
+Pink Erotic,https://ortepe.xyz:17940/tv/pinkerotic1/chunks.m3u8
+Penthouse Reality,https://ortepe.xyz:17940/tv/penthousereality/chunks.m3u8
+KinoXXX TV,https://ortepe.xyz:17940/tv/kinoxxx/chunks.m3u8
+Private TV,https://ortepe.xyz:17940/tv/private/chunks.m3u8
+Meiden Van Holland,https://ortepe.xyz:17940/tv/meidenvanholland/chunks.m3u8
+Cento X Cento,https://ortepe.xyz:17940/tv/cento/chunks.m3u8
+Barely Legal,https://ortepe.xyz:17940/tv/barely/chunks.m3u8
+Venus TV,https://ortepe.xyz:17940/tv/venus/chunks.m3u8
+X—TV,p2p://61.221.233.81:9000/5606baf7000b4dd1015a65ea3c034b04.ts
+幸福花园,p2p://61.221.233.81:9000/5606ba3e0009539c015792c33e85188a.ts
+花花公子,p2p://61.221.233.81:9000/5606b68a000c38f801491c5c3b12754c.ts
+歐美人妖,p2p://61.221.233.81:9000/5606bb3400065a1f015b52e7599c4725.ts
+特殊重口味,p2p://61.221.233.81:9000/5606ca6a000da06f0196bfbe3cb63127.ts
+潘朵拉玩美台,p2p://61.221.233.81:9000/560684e50009d3fe00872f3c2037691a.ts
+潘朵拉粉紅台,p2p://61.221.233.81:9000/5606a423000201c40101376903b40b9b.ts
+維納斯,p2p://61.221.233.81:9000/5606b9cc00014eae0155d35b44e17ffb.ts
+彩虹电影,p2p://61.221.233.81:9000/5606ab8c0000cf1e011e294639b2734c.ts
+彩虹E台,p2p://61.221.233.81:9000/5606aaa50000ce4a011aa2e829b55a91.ts
+K頻道,p2p://61.221.233.81:9000/5606abcc00043107011f241940b24937.ts
+櫻花頻道,p2p://61.221.233.81:9000/5606ab3a000c134e011cebda231d55eb.ts
+彩虹频道,p2p://61.221.233.81:9000/5606aafd00014f55011bfac853331784.ts
+松視一台,p2p://61.221.233.81:9000/5523755f000a14330605ce9371571534.ts
+松視二台,p2p://61.221.233.81:9000/5523758a000c7b4f0606772137c10620.ts
+松視三台,p2p://61.221.233.81:9000/552375a5000580450606ded9604435cb.ts
+松視四台,p2p://61.221.233.81:9000/560695d50002232600c956ba7e1016e0.ts
+樂活頻道,p2p://61.221.233.81:9000/5606bb6e000b58c7015c36bf5ff90048.ts
+潘多拉玩美,sop://59.120.43.185:3918/5818
+韩1台, rtmp://edge2.everyon.tv/etv2/pld1005
+韩2台, rtmp://edge2.everyon.tv/etv2/pld1006
+韩3台, rtmp://edge2.everyon.tv/etv2/pld1008
+日韩16台, rtmp://123.108.164.71/etv2/phd1003
+日韩17台, rtmp://123.108.164.71/etv2/phd1005
+日韩19台, rtmp://123.108.164.71/etv2/phd1008
+歐美無碼成人1, rtmp://198.211.33.185/livepkgr/1C
+日本有碼成人2, rtmp://198.211.33.185/livepkgr/2C
+日本無碼成人3, rtmp://198.
+1,https://cdn2.pvvstream.pro/videos/-201904425/456247316/vid_720p.mp4?secure=1749977415-KCdxdDHNEYWzS8plgd7LdkKkZjIS1ymLF8ync35u%2FXU%3D
