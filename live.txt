@@ -537,7 +537,7 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-vip,#genre#
+vip_999888,#genre#
 핑크티비,https://play.ogtv2.com/live/live1013.m3u8
 플레이보이,https://play.ogtv2.com/live/live1015.m3u8
 Playboy TV,https://ortepe.xyz:17940/tv/playboy/chunks.m3u8
@@ -563,32 +563,5 @@ Meiden Van Holland,https://ortepe.xyz:17940/tv/meidenvanholland/chunks.m3u8
 Cento X Cento,https://ortepe.xyz:17940/tv/cento/chunks.m3u8
 Barely Legal,https://ortepe.xyz:17940/tv/barely/chunks.m3u8
 Venus TV,https://ortepe.xyz:17940/tv/venus/chunks.m3u8
-X—TV,p2p://61.221.233.81:9000/5606baf7000b4dd1015a65ea3c034b04.ts
-幸福花园,p2p://61.221.233.81:9000/5606ba3e0009539c015792c33e85188a.ts
-花花公子,p2p://61.221.233.81:9000/5606b68a000c38f801491c5c3b12754c.ts
-歐美人妖,p2p://61.221.233.81:9000/5606bb3400065a1f015b52e7599c4725.ts
-特殊重口味,p2p://61.221.233.81:9000/5606ca6a000da06f0196bfbe3cb63127.ts
-潘朵拉玩美台,p2p://61.221.233.81:9000/560684e50009d3fe00872f3c2037691a.ts
-潘朵拉粉紅台,p2p://61.221.233.81:9000/5606a423000201c40101376903b40b9b.ts
-維納斯,p2p://61.221.233.81:9000/5606b9cc00014eae0155d35b44e17ffb.ts
-彩虹电影,p2p://61.221.233.81:9000/5606ab8c0000cf1e011e294639b2734c.ts
-彩虹E台,p2p://61.221.233.81:9000/5606aaa50000ce4a011aa2e829b55a91.ts
-K頻道,p2p://61.221.233.81:9000/5606abcc00043107011f241940b24937.ts
-櫻花頻道,p2p://61.221.233.81:9000/5606ab3a000c134e011cebda231d55eb.ts
-彩虹频道,p2p://61.221.233.81:9000/5606aafd00014f55011bfac853331784.ts
-松視一台,p2p://61.221.233.81:9000/5523755f000a14330605ce9371571534.ts
-松視二台,p2p://61.221.233.81:9000/5523758a000c7b4f0606772137c10620.ts
-松視三台,p2p://61.221.233.81:9000/552375a5000580450606ded9604435cb.ts
-松視四台,p2p://61.221.233.81:9000/560695d50002232600c956ba7e1016e0.ts
-樂活頻道,p2p://61.221.233.81:9000/5606bb6e000b58c7015c36bf5ff90048.ts
-潘多拉玩美,sop://59.120.43.185:3918/5818
-韩1台, rtmp://edge2.everyon.tv/etv2/pld1005
-韩2台, rtmp://edge2.everyon.tv/etv2/pld1006
-韩3台, rtmp://edge2.everyon.tv/etv2/pld1008
-日韩16台, rtmp://123.108.164.71/etv2/phd1003
-日韩17台, rtmp://123.108.164.71/etv2/phd1005
-日韩19台, rtmp://123.108.164.71/etv2/phd1008
-歐美無碼成人1, rtmp://198.211.33.185/livepkgr/1C
-日本有碼成人2, rtmp://198.211.33.185/livepkgr/2C
-日本無碼成人3, rtmp://198.
+
 1,https://cdn2.pvvstream.pro/videos/-201904425/456247316/vid_720p.mp4?secure=1749977415-KCdxdDHNEYWzS8plgd7LdkKkZjIS1ymLF8ync35u%2FXU%3D
