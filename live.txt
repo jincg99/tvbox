@@ -537,9 +537,9 @@ Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 INFAST,https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-vip_9988,#genre#
-핑크티비,https://stream.ogtv3.com/live/live1013.m3u8
-플레이보이,https://stream.ogtv3.com/live/live1015.m3u8
+vip_999888,#genre#
+핑크티비,https://play.ogtv2.com/live/live1013.m3u8
+플레이보이,https://play.ogtv2.com/live/live1015.m3u8
 Playboy TV,https://ortepe.xyz:17940/tv/playboy/chunks.m3u8
 Eroxxx TV,https://ortepe.xyz:17940/tv/eroxxx/chunks.m3u8
 Brazzers TV,https://ortepe.xyz:17940/tv/brazzers/chunks.m3u8
