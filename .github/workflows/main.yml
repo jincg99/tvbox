@@ -1,35 +1,28 @@
-name: 更新直播源
-
+name: update live source
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 每6小时跑一次
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: 拉取仓库
+      - name: checkout
         uses: actions/checkout@v4
-
-      - name: 设置 Python
+      - name: setup python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: 安装依赖
+      - name: install deps
         run: pip install requests
-
-      - name: 运行合并脚本
+      - name: run merge script
         run: python merge.py
-
-      - name: 提交更新
+      - name: commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add live.txt
-          git diff --staged --quiet || git commit -m "自动更新直播源 $(date '+%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "auto update live source"
           git push
