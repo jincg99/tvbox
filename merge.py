@@ -10,7 +10,7 @@ TXT_SOURCES = [
 
 M3U_SOURCES = [
     "https://raw.githubusercontent.com/daguanjian/tv-m3u8/main/korea2.m3u8",
-    "https://raw.githubusercontent.com/GoonhoLee/korean-tv-static/main/korean_tv.m3u",
+    # GoonhoLee 的源确认链接后加在这里
 ]
 
 JSON_SOURCES = [
@@ -59,16 +59,18 @@ def parse_txt(content, genres, genre_order, seen):
         add_channel(genres, genre_order, seen, current_genre, name.strip(), addr.strip())
 
 
-def parse_m3u(content, genres, genre_order, seen, default_genre="国际频道"):
+def parse_m3u(content, genres, genre_order, seen, default_genre="国外频道"):
     lines = content.splitlines()
     i = 0
     while i < len(lines):
         line = lines[i].strip()
         if line.startswith("#EXTINF"):
+            # 频道名在逗号后面
             name = line.split(",", 1)[-1].strip() if "," in line else "未命名"
+            # 尝试提取 group-title
             m = re.search(r'group-title="([^"]*)"', line)
             genre = m.group(1) if m and m.group(1) else default_genre
-            # 跳过 #EXTVLCOPT 等其它 # 开头的附加行，找到真正的播放地址
+            # 找下一条非空、非#开头的行作为地址
             j = i + 1
             while j < len(lines) and (not lines[j].strip() or lines[j].strip().startswith("#")):
                 j += 1
