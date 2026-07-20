@@ -19,10 +19,16 @@ JSON_SOURCES = [
 
 OUTPUT_FILE = "live.txt"
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+}
+
 
 def fetch(url):
     try:
-        r = requests.get(url, timeout=15)
+        r = requests.get(url, headers=HEADERS, timeout=20)
         r.raise_for_status()
         r.encoding = "utf-8"
         return r.text
@@ -100,13 +106,19 @@ def merge():
     seen = set()
 
     for url in TXT_SOURCES:
-        parse_txt(fetch(url), genres, genre_order, seen)
+        content = fetch(url)
+        print(f"TXT 源 {url} 长度: {len(content)}")
+        parse_txt(content, genres, genre_order, seen)
 
     for url in M3U_SOURCES:
-        parse_m3u(fetch(url), genres, genre_order, seen)
+        content = fetch(url)
+        print(f"M3U 源 {url} 长度: {len(content)}")
+        parse_m3u(content, genres, genre_order, seen)
 
     for url in JSON_SOURCES:
-        parse_json(fetch(url), genres, genre_order, seen)
+        content = fetch(url)
+        print(f"JSON 源 {url} 长度: {len(content)}")
+        parse_json(content, genres, genre_order, seen)
 
     lines_out = []
     for genre in genre_order:
