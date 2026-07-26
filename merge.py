@@ -10,7 +10,7 @@ TXT_SOURCES = [
 
 M3U_SOURCES = [
     "https://raw.githubusercontent.com/daguanjian/tv-m3u8/main/korea2.m3u8",
-    "https://raw.githubusercontent.com/GoonhoLee/korean-tv-static/main/korean_tv.m3u",
+   
 ]
 
 JSON_SOURCES = [
