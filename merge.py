@@ -25,6 +25,29 @@ HEADERS = {
     "Accept": "*/*",
 }
 
+# ---- 不想要的频道，按名称或地址过滤，源里再更新也会被自动排除 ----
+EXCLUDE_NAMES = {
+    "맛있는 녀석들",
+    "나는 자연인이다",
+    "도시어부",
+    "백반기행",
+}
+
+EXCLUDE_URLS = {
+    "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8",
+    "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8",
+    "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8",
+    "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8",
+}
+
+
+def is_excluded(name, addr):
+    if name and name.strip() in EXCLUDE_NAMES:
+        return True
+    if addr and addr.strip() in EXCLUDE_URLS:
+        return True
+    return False
+
 
 def fetch(url):
     try:
@@ -39,6 +62,8 @@ def fetch(url):
 
 def add_channel(genres, genre_order, seen, genre, name, addr):
     if not name or not addr:
+        return
+    if is_excluded(name, addr):
         return
     key = (name, addr)
     if key in seen:
