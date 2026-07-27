@@ -253,7 +253,7 @@ Bounce,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
 国际频道,#genre#
 KBS1,http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
-KBS2 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
+KBS2,http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 SBS,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 MBC,http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
 연합뉴스,https://tving-live-o2-skcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1MTkxMjYyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=HDfqXPIU2pE2C3Se2GHfej2F44vTJLoBH54DEDluUzUlyPG56qrtUV53UsfkOLujHbPPefQ7QSa1ceTVq7NbD4Glo8ejEF3q3hJ0juQM1b1aOMCOV96ysBZ428hU-hsCsqiNyeKjboiiPDPj0jlE07W2uG3ZTptJrFDihmfSBTudhPbo7Vh5kwy5kLOCF0JNcXGKLgJ9hdtQqW1yJFss16m~sJ7F8ziNcZ0p5N50hiG91wlrd2Qc4Hz6Ek70prLm2lXpN-aETtH1Mo3HdouY6K2QKTPQNkRCBhBwv9MMbvWMiqE5y46miY9oGODSOTILdwKcMnXra9Gn~BxQD4AiCw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
