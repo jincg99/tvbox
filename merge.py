@@ -275,8 +275,8 @@ EXCLUDE_URLS = {
 # ---- 手动补充的频道：源里经常缺失/不稳定，这里保证每次合并都一定会写入 ----
 MANUAL_CHANNELS = [
     # (分类, 频道名, 播放地址)
-    ("国际频道", "KBS1", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1"),
-    ("国际频道", "KBS2", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2"),
+    ("韩国频道", "KBS1", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1"),
+    ("韩国频道", "KBS2", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2"),
 ]
 
 
@@ -329,7 +329,7 @@ def parse_txt(content, genres, genre_order, seen):
         add_channel(genres, genre_order, seen, current_genre, name.strip(), addr.strip())
 
 
-def parse_m3u(content, genres, genre_order, seen, default_genre="国际频道"):
+def parse_m3u(content, genres, genre_order, seen, default_genre="韩国频道"):
     lines = content.splitlines()
     i = 0
     while i < len(lines):
@@ -404,7 +404,7 @@ def merge():
     for genre, name, addr in MANUAL_CHANNELS:
         add_channel(genres, genre_order, seen, genre, name, addr)
 
-    prioritize_channels(genres, "国际频道", ["KBS1", "KBS2"])
+    prioritize_channels(genres, "韩国频道", ["KBS1", "KBS2"])
 
     lines_out = []
     for genre in genre_order:
