@@ -579,84 +579,25 @@ KTLA,http://ky-tv.cc/live/brendan1/brendan1/517786.ts
 🇯🇵日本频道,#genre#
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
-TBS (备用),https://tbs5.mov3.co/hls/tbs.m3u8
-NHK G,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
-NHK E,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
-TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
-TV Tokyo,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
-Fuji TV,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
-Tokyo MX1,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
-Tokyo MX2,https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
-BS NTV,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
-BS Asahi,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
-BS TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
-BS 11,https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
-BS 12,https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
-NHK BS4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
-WOWOW Prime,https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
-WOWOW Cinema,https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
-BS 10 Premium,https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
-JSport 1,https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
-JSport 2,https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
-JSport 3,https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
-Green Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
-Animax,https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
-Nihon Eiga Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
-WOWOW Plus,https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-Disney Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
-Jcom BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
-BS Yoshimoto,https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
-GAORA,https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
-AT-X,https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
-MTV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
-Mnet,https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
-V Paradise,https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
-The Cinema,https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-Kayo Pops,https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
-NTV Plus,https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-Family Gekijo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
-Mondo TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
-TBS Channel 1,https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-TBS Channel 2,https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-TV Asahi Channel 1,https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-TV Asahi Channel 2,https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-Fuji TV One,https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-Fuji TV Two,https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-Fuji TV Next,https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
-Neco Channel,https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-Dlife,https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
-Toei Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
-Fighting TV Samurai,https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-Me-Tele Next,https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-Sport live plus,https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-Shogi Channel,https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-Home Drama Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
-Channel Ginga,https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
-Tabi Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
-Tetsudo Channel,https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-Music On!,https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-Music Air,https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
-Action Channel,https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
-Mystery Channel,https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-QVC,https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-GSTV,https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-Jidaigeki Senmon,https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
-Eisei Gekijo,https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
-Movie Plus,https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
-Golf Network,https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
-LaLa TV,https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
-Sky Stage,https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
-National Geographic,https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
-Disney Junior,https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
-Discovery,https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
-Animal Planet,https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
-History Channel,https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
-KNTV,https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
-NTV News24,https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+TBS,https://akariko-bck1.sankuria.sbs/stream/jp/tbs/stream-output.m3u8?mode=hls
+NHK G,https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+NHK E,https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+TV Tokyo,https://akariko-bck1.sankuria.sbs/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+Fuji TV,https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+Tokyo MX1,https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+Tokyo MX2,https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+BS Asahi,https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+TV Osaka,https://akariko-bck1.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+Kansai TV,https://akariko-bck1.sankuria.sbs/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+NHK BS,https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+NHK BS (Sub Ch.),http://haru.charandom.blog/stream/jp/nhk_bs_(subch)/stream-output.m3u8?mode=hls
+BS NTV,https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+JSport 1,https://akariko-bck1.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+JSport 3,https://akariko-bck1.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+JSport 4,https://akariko-bck1.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+Sky A,https://akariko-bck1.sankuria.sbs/stream/jp/sky_a/stream-output.m3u8?mode=hls
 CNNj,https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
 BBC News,https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
-TBS News,https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
 
 韩国频道,#genre#
 SBS,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
@@ -741,6 +682,15 @@ SBS PLUS-테스트,http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_pl
 延边卫视频道,https://srs.iyb983.cn/video/CYS/index.m3u8
 YBTV-1 朝鲜语综合频道,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 YBTV-2 汉语综合频道,https://srs.iyb983.cn/video/ybtv2/index.m3u8
+更新日期: 2026-8-4 18:10:21,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV2财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=faccf98851cf86133765fb5f04f4fbcd&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260804170812&Channel_ID=0116_2600034600-99000-201600010090062&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=58.144.196.198&SecurityKey=20260804170812&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7465100c7a1648772fa25af863de0d50&sv=10004&ct=android
+CCTV7国防军事,http://txycdn5.video.qq.com/1370436302.m3u8?time=1785826670&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIFZXflU2ERvvDidxgircP3s7UHAM7HubnXmhTWHw33rUEF_lHD_jUCF_JYn9Mf9EKMkBcAJGbdA3B301bjKG-pE6DdAI6aoKt9_oHHyr7HCR5iXnth9hAbk-QYkt3y01AsemOaH3raVY1WutH72kwWHTMR4XPIF0S-bofto1nAWyhMMPXkCUVUZ698fjCh6VT0SmAKqHEtfmpJC5ZU-utkUybljLv7m29OczacyCxcUG5x_pnDgrI5N7Fc6klR8VWpOLDgHDxc_iTS5-cS5kOAVZ4eRuHkpjzV40Mjzox5JK3vAcUOx0kFNucuUJOzky71muU2B_HyYpiMbRPV-61EnP_WU-j5C3rfhrbI1AatYX4368E3TcOEv_RKpiAGSpLSwVmdcJRaZs4wIkb-bkzIVt4f13u8PYenx7iCwTuA4DeBmNUptprDQDLZD4Z6vuf9FIAJHlGLGKQ9e180_82BUBbR4zAacPAh8e3fxUAwowR1BSmSF07uhX2o6AuJHUEAutnZvhu7WWjaVo9GVrJFvi5DxdcvcsDz7EGY-CFFnLbojR&drmtype=0
+广东卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=faccf98851cf86133765fb5f04f4fbcd&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260804170732&Channel_ID=0116_2600034600-99000-201600010063066&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=58.144.198.8&SecurityKey=20260804170732&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=146cdd240c195b517adfa4beafd9191f&sv=10004&ct=android
+黑龙江卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=1b69ad328d1a9851bb00681fe7efabdd&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260804165227&Channel_ID=0116_2600034600-99000-201600010043851&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=27.209.181.186&SecurityKey=20260804165227&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d407a0c12b6f06ae458df3e56e6195d8&sv=10004&ct=android
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+CCTV2超清,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=faccf98851cf86133765fb5f04f4fbcd&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260804170812&Channel_ID=0116_2600034600-99000-201600010090062&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=58.144.196.198&SecurityKey=20260804170812&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7465100c7a1648772fa25af863de0d50&sv=10004&ct=android
+黑龙江卫视超清,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=1b69ad328d1a9851bb00681fe7efabdd&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260804165227&Channel_ID=0116_2600034600-99000-201600010043851&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=27.209.181.186&SecurityKey=20260804165227&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.7.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d407a0c12b6f06ae458df3e56e6195d8&sv=10004&ct=android
 
 한국-종합편성,#genre#
 YTN,https://backup.760515.xyz/playlist/YTN-playlist.m3u8
@@ -780,15 +730,15 @@ KBS LIFE,https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy
 KBS Story,https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjAxNzUzOX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=C71I6dFw2S2rZY7obi8BbPiM50-E0Nohk8b~IleX4e~T1uzGDxbKKaErJWpJM3mahKlAtRzNn1jTt4HgauydT3mW2LhJ99BwZLGCjs3TWEjnsLzwOpHkVshduWsCqfcokbPtkuW~epATXlPz~fO3GM2m5MZ0hQBpqokZ8vwVFQB7yFfyVFPAqtkRkgWBb8QaZDf7gvgpYtMgoNRxdaVfrIKFZGTQw0IiVQhcWh2UgXhBTKWMEmhiN~V0p3THKOYsvL77lFFIeWPaZsInJnYGI9XIZRRSHm12MMT1I2m93U5nl~DQLbp5RLxVSE9Pn9jaOE4rbsugwbxhGk~meRj8sg__
 KBS WORLD,https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NjAxNzUzMX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kcL5wiF3rtKFR2nqMKAQhpNVN0xzcm5vD8IA-MAVqSrzjJvdzRHhMjtRLABz8O7tCDgoHuRDtKIqWgshScLBhNjqQCFX4swkA4r4adr7ZACPlcGac82aZIuYV5HlRlszsHGZQW8S0Gn5f2GpLWkAqZexUuhqTxm5oxMxAWgZ56cAL-k-wHi-V98AI4RvotlQ25rxhZqLUdqwhckwLA4LNM95oly3w6He5Bm5lTKnzs-T5USuEnpGH7k1Cmo9JhI93Xyy7t4-3HAFdi~ISb34ZjYL8la1jpNXwPkrkHh1Xgjnlf98tqM69y0zCfnjAqxdgyAX0Jefl6yaHiOt89CV2g__
 KBS뉴스,https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg2MDE3NTkxfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=k7mwSNgM0YsoNCyhx9~E6kN~fypv3nqce1DoafyR2yoBASx~Zi-kehhO1a3ynj9mo02apZEp5LyiCWOcQzmMBPmDDylI3v0sM6lr9Ub-35wZdmdlQVcbU-scUXFgiOFfksFroeZ47NTQv4-0U2U7AA6HzHZ~oEl3hw8okOuJ8XUE7~lKD0YwuUWaCQSAU6W4XrKI4SHbz5AZPpoHLbX1y93TgSjanJOYhMYsxpsztxekuXkzRgTvmu5yMdMhytHEdDnU-z2YQ0tgV7riZubqWweONKtvad5aoCfyTr0v8icJPg13lg-JRcoxIlLaH6aDFIwUxlkCkH8mGepIVkD4iA__
-SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjdkOThjYzg2LTEzZjAtNDdkNy04YWU1LWU4NzM0N2M1ZmUyZCIsImlhdCI6MTc4NTg0NDg0Mn0.Q29ifq8ytZ5IomguKuClXTU3pFotugpflm36jLSPn70
-SBS플러스,https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwYzdiYjdhYS1mMTRhLTQ3NjAtYTdiMC1mN2E3NmQzNWYxOWEiLCJpYXQiOjE3ODU4NDQ4NDV9.BGXs7QHNOx86aD6XRNliHM1RVa--rO7le_EPj5GdF1k
-SBS퍼니,https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNTEsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjgxZDU5MGM5LWYwZTgtNGMzNC1iNDQ1LWNkNGU5NTUyY2QwZiIsImlhdCI6MTc4NTg0NDg1MX0.6gB8sByttwpVxJc650l47RIn7UAWhgYOnWsaQmia0Z0
-SBS LIFE,https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNTQsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjZlNWMzMGY1LWI1YmItNDkxMi1hYzA2LWMxZjA3NjQ3NmI4ZSIsImlhdCI6MTc4NTg0NDg1NH0.PpMlOp0DBDvrLEC0jQyNJ9FP2GD08knzunimO3kOPck
-SBS KPOP,https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNjcsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiNjY4NTYwZS0yZTc0LTRjNWMtOGVkOS05ODc5MzczY2RiZTciLCJpYXQiOjE3ODU4NDQ4Njd9.Q3U5-0ZB_yVs_MdMXEHFDukSUqr8aP4h8Rj-Txc74OU
-SBS골프,https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNjEsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNzA0YWJjMS04YWExLTQyYmEtOTk3Zi1kZTA0MDY0OTY5YTUiLCJpYXQiOjE3ODU4NDQ4NjF9.oT4LHSPN0ygV7YJiHVksnV1HeUkthhexZ1KYNojRWxg
-SBS Golf2,https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNjQsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZDNiZmE1YmEtOWNiNC00ZjI0LWI3NGQtYWE2ZWZlOWUzYWJlIiwiaWF0IjoxNzg1ODQ0ODY0fQ.fm2ts114qIiYpbkHGZqFnLz8xpVso7X0GiDRyV6TYIM
+SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjMyMjI5MmJjLWM5NmUtNDJmMC1iYzM3LTBhYzljMGRkNmY1NyIsImlhdCI6MTc4NTg1NTYwMn0.idHd2lyNWHwJUcSR_nvCHVJJaN9uXzHyYTiimIYlZgA
+SBS플러스,https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5NWI0MjlmNy03ZGI5LTRlYmMtOTcwNC1lM2ZhNzc0YmU4MWEiLCJpYXQiOjE3ODU4NTU2MDV9.X3QqofGxNAJd1Ev1m-zhQLY6byLcPzO7kh6nTT6M_48
+SBS퍼니,https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MTIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjI4OWQzMDM1LTk1ZTEtNDUzOS04NWU0LTUzYmRlNDA0YWMzYiIsImlhdCI6MTc4NTg1NTYxMn0.Z82G1SY4RG3_aCFEGIc-Fx4vQftflhDv03WktlIabUU
+SBS LIFE,https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MTUsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFiMjYzNTNmLWNmMGEtNGIyYy1hNTMwLWZjNDY1ZDc5OWMxMCIsImlhdCI6MTc4NTg1NTYxNX0.HYExlsSmPvMjsS7KejqwPPVpsmAFVwcP4w2g45C0iH8
+SBS KPOP,https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MjgsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3NmEwZjFiOS04NGJhLTRmOWUtOTRjOC0zNTE4N2RiNjdlMjIiLCJpYXQiOjE3ODU4NTU2Mjh9.HkGSWEvirWpQDwCwlkpIIEBYKXQrjhVXhHfkNx6QoJc
+SBS골프,https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MjIsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwMDYzYTA0My0zMGI2LTRhY2EtYmQ2Yy0wMzA1NjJkMTZlMTYiLCJpYXQiOjE3ODU4NTU2MjJ9.8pksFsBqCv4YrAV4DQ6SjyoklnGFOkmcmojerFuOUu4
+SBS Golf2,https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MjUsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNzdjZWExZGUtY2U2YS00MjdhLTk0NWItYmYxMTYwYzI4Y2I1IiwiaWF0IjoxNzg1ODU1NjI1fQ.uERUMbU87VafWpkDVAfbJy7wxjHIzKvLnoI1BOpC_jw
 SBS스포츠,https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4MzQwMTcsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIyYmFlZTRlYS1kNjQ0LTQ1ZjEtOGM3Ny1lNzk0ODQxZWRlYzIiLCJpYXQiOjE3ODU4MjY4MTd9.m2STlmeeO_W24X342kDVpgIyrjmx2dRkGRcas6_XzYQ
-SBS Biz,https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NTIwNDgsInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmYjIxYjQ1NC1kNGRlLTRlYmUtOTU4MC1iNjE1OGNkN2ZjZjEiLCJpYXQiOjE3ODU4NDQ4NDh9.XoGqElt9M7Bz0R_Abk756PjiCyzR542ThDY3rGM4SLU
+SBS Biz,https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODU4NjI4MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzYWFjYjI3OC04OGVmLTQwYmEtOWMzNi1jMGJkNjVlYjgzMzAiLCJpYXQiOjE3ODU4NTU2MDl9.fDHmJAegymjguNZugBZLNVOHKLz6LFyL4Pnuv2JIqGQ
 MBC,https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 MBC드라마넷,https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=64514E16A33C3734A54665483D11A14005A23E85FE01027B38D0F5aAE6AE342640aB03D83372C64BE008364131b2C10E8E2D52F927ACE52E11CF94771966F6B6779CC5DD3501CF79046239F47E2DEC0C26137890BB996669BA9FEAFF6D5F14B8E78C0AE67FA63E5DBC2D33E584E65F95415719107BE8C0D6F3D1DA924F8F3985&v=3
 MBC에브리원,https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6531111603803284044825F23821304E55153465540132193C20DAa616113D560Ba8E3B036024248A0E33BE17EbD2131F21C1E43570F6EE28B2D871DE9595E4FDE9C45D33FCAE3C58890824E19948AF119F544788B6475758A0F5CA4F829CEE45322BF32F1F046D399EB73CD9C6E60D16AA9105D37C4A11E5F0E49DFBFA05C54&v=3
