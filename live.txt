@@ -875,28 +875,28 @@ ANIBOX,https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
 한국-지상파,#genre#
 KBS1,https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 KBS2,https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
-KBS드라마,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNzg0NzY3fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=H~oOzW0jT2ogP9gRLZ308EBUU8rQIp5yuNV7AquQtumQXLp7QKLDmbGmdoqPtKGAEqKd-UWAymx0avUz2XfOEyl~SmRRWPHg4X6vZnhcn54ppYkd493u2gWgOkjB8aERGGQ0LWsW0V2mNld5chdXH9itWfyfBIpaheKmoCLORhAj1KhArcUgllT8krRdokDNuRWiJpa0a0dAzJfcXEmtGY1il7gGv~mPwwNerWUBsWaQVxg4yIFEa24ASlJYe4kKSMAtSu~~rHmPAKONaQ13AsF7JKnYR-~3FRJsI~ZFCVcOOEecK7~Fl-kuJUooITWybDybzAFHOmpVo9OuBuwSgQ__
-KBS조이,https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE3ODQ3NTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ns7PDAFJZePtdqfvlCtlPATrM3W5sjDtNLUNDp4uw-8T9C2L0xjXWSqy0MESQSJDrzxltlJejoXlfsFIhVsox6qnmr2w9oX-p6PR6bsKmn9ELK1zdi-6u36U8Z~BqSHxBCM6-ZnWwKEYL5onabzD-iIkgxw56KOrP4tAVfzXU1ACQTj39~Pk3FbCpJLbrTsCpjsBQYJc3PvAedL6BeB3uQ5chnjAayTR8cEkM8Ildi1fneqaXhCpHHucFAVFgEeyeicGgkeahQGzjcZCHj-JbgVUHP-ZJ5uuUH-ymlhrJxN2wVMXTn-9~Fy0chNzRp9mzOk80BgMsdaKuWske-0yIw__
-KBS키즈,https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTc4NDc2OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=AGb32xclVrPICBruA5-j7ap8Ry9lP6EyuZpbktuOLJs0RUFoQKufI03DixSXUTtVszblVfNx8Pm0ciVPh-qY1LTDk70zkRaB65Z-RXr32Fu~YcfYwEu~MvodeoiyqSbMmTPfPZYuRqVW~yUzuquZNAdBKYSAJZtPx38LkrXHF3Fsm8kk-hVETK1CExxTf8AHSkb9Id6TxfsS98IfcBgELXJkyvS2H7C5SntixRROZkCQ2kBiMuD~yTl4S5y~fzsrPQO4YJKzqqGql0ulqVpr5s5VhgxEhkwZz6oBJ9G2NhxYURCUbEnl3JBchyMlHN8EVKJz9rAji8-Mc9Fq9biVxg__
-KBS LIFE,https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTc4NDc2Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jjbYF8mzvvc5ijFNnUUMgvbBVzgv7IK9EcpZikJyyYZMT3BnNNms511prKrlDNdZhoCUQhKytXFS8n8xvQFBGXfmjYhox~CEfd5fQyA8ZDz~9PZ0uwcQkaQeTCDwYBxzSpp-Iw4T8WrxsKZ894zEivb0YnP32SkK-gDkt31b4YsX1axDy3vyywvpv68xyu7QMEUGIpCuUFHr4twkhl6R2rvQNcv1zukOk3UctT4VzThkHS692GJdC25uQBxUk-DY-2i7n3okMa1oDgC7EIQUT8-tdHMJJ3hybo6yPJlzsnfKSukx6IxczTL36G8UWO179MsKvX4Z6j0ZyJT1yHNQvw__
-KBS Story,https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTc4NDc3OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lJ~QphG92TXlC5fJ9HJnOlzwlJQ8c9B3Pqm5x9IsmHYEEOdoRJIsgDWlmZBuZpE7zNzyuE4NUoMHbpzCSH2das-iRTRxremMNuItHt8Bk5tKoYbpeek8qc3qNS0Lu~S7PYoHNzVq~928OcI-fCniMiKlLk0KkHrgnDyq6N4OuY0Uhwyac339JvDgQlq4BSZRZoMpo4veoKF4I4pTuwEtSzz2aPLD0Qkln2K62IR4VM7-73OzqeZ6Lvy2TNI9aV8kX1yK~cnEC6zMnCAaeCP22~MdjQNWfLBTQY1DUscP0QqUXlOspl2pBF04M2gBeAMRR7GkFex6EYkoT4F~i8F5~w__
-KBS WORLD,https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTc4NDc0M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HFvi~C2knVeifFkhga97ZTu-dz5scHILx~v~kOEKFIXo4ZXuT2uvaUtBk3IEhYShGV7aKs~HGae4am5-VpAKR1vMnzUQ-gVik0qARGA1iQMmAbQx4lYoXcCOVWnpbCEcypstei2~31z7qQPIOVRfu8h1iWAj1y9EXyC4nF1jT9kl1s0euTaSQSrV4kQNY5ACYe2T4amE9c2mm0DrhzxqQ5BE7BD3kil73z5SiG2r58B-G1SZ52yjxZiXfsrxv4WoMLFvPcFZHITsgz-hqzDzkCvZNoCcUCvx8UDDnFys5es3IyGKtiN3G6nqzVdbvQ1bJwKtSKi9IBzh-6PasAlFDA__
-KBS뉴스,https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNzg0Nzg0fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=fNUSAVetWgTINOWH~-H~qnvBdo~CAyIgpGFYFQX639czQJEIDCU5xCmK2xEK6MoXwCLJdRo4AnwP94vCsKMgQC0xutrq4pGRHEN7v2Q3eAR-w3Qifz4DgteP8pGGN0~BJ1zPen8mLXOYZZtziZERDgNofUWY1zhRfuyrY-AeaYMq-IJJuJGsPItPCLe1vb0rawknsYe6vFsH3UL-CicWR7snY65ZXLSUab6-~leeLDzCtuparvjD1SjLQRy1-0T-xDIXqPRRGr2auDM3UaC4SOHLG4iv5SwS3WxPRrd6sXx6-2vrGF~CHyMi6TAdNX6tMLStrBEkNxPmUVHxOk6DIQ__
-SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjdiODk2YTdhLTQwMzktNDFjMC1hMmQyLTA0N2ExZTQ0ZWE3ZiIsImlhdCI6MTc5MTYxNTYwMn0.YxOPWVnYmaeovU1D-7AC3Oo-1j64qk7NeiwFLTGHNN8
-SBS플러스,https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MDUsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1OTcxZmViYS05YTBkLTQ0YTktOGQzZC05MTE0ZjAwMjk4Y2MiLCJpYXQiOjE3OTE2MTU2MDV9._BM0VvkN1l701REtuwwFHTTBTpzGfysg70_JYmM8bqM
-SBS퍼니,https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MTIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImFkNTU0YmIzLTI0MGMtNDNjYy04ZGU5LTM4ZjViMzlhZWZlNCIsImlhdCI6MTc5MTYxNTYxMn0.l9m8CnSsjcGauxHtyghP_0hb4Nb_0tJNfCCyz-pSdSE
-SBS LIFE,https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MTUsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjE2ZDI3ZTM4LTI0MjktNGRjOC05NTc0LTc3N2U3MWMzMWE4NiIsImlhdCI6MTc5MTYxNTYxNX0.JIPBHD5opm7I93MoprJtpIK92YwRyyg6CQCOFrPzoME
+KBS드라마,https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxODA2MzUxfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HoiV0NoLt~Oag1RxahvMe-Rjue7VzZfylVWRXHmEO5W3Eh9X6DsNQboZLbt9XGwriWKrEaRs8oB4vkf40EISuaFjPo-FW~uYULp~soNQM8WGjkXkfITGINOPEN-gz8Cl~UoUdhkuHQ-lEC6l7NG8nis819-VUg988yto3pyN0~A~KaJGcR6VwrzLMHRrMy1IWlEE0ZJiRFS4XAzERbYngKDSvYrkyamiCNnroG~0Q6sf4QPIWPAryuT0TkQ5to6neaDb-ROrn5yyRIY1oqMApwgkwaL09aaGs5XwLZAcpxyWXk96F9f9HIvyN9iQBwcGnvFkBfuhFlTb2g5ruNkoIw__
+KBS조이,https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE4MDYzNzl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=T24HvN7CoRwBMQuaMsv6B5eZ9DsCmui0rDaAgnz6RcRf63ogi59G172GwaTjXb1eV3CGkxhXafXJhoDY~DLhxSdcv7CSkNM2TTP-r8pB2EKttv2LlkRF7GzPAH~s5F0nIoQ8Cw9IqZQdWc6KRxrJek0ttKtvKpybkHpMTTjDOlWqHR~1ZwApnJWxPIUbbaI0wBo9TgDOFOUSKKpiXaAMzRpJiWjxmX3knPl08kaUMUg1Hx0lpQx0PKDakyh6D1XyLvZQ88mdAfbRxsbFRKA2X-6zNuHndSEkWq5fe-FxSYDUKjXxwbtmJ3yebrSwn31nqXr0bBAxW7F7FyzKc-Jxow__
+KBS키즈,https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTgwNjM0Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=E3JHymOXmReFXAMsZ7F-OJscstmA2TnaGQLpYuD38Qd5wActXhU3vbJRRTlL0pjUCJGcBoZdyEPGzg6UF~tkqrvUkRIfDCZpSaNvpNpyNtlQuUksNI8o2S~iFuU7bkOisW7c6mBtu7qrpYCzOJE~uLlxF~d70gNvT4lytSjjSfwzye1jKZw-TwpVpyF-E2blOPHgYUn-ccW8~A-SkuDWH94FZx9N~H3Q30tkzqnDQz-jBMzkAVOhW7FZpuZFZiQ85FrvD3xBEZcGrt1l-EdQ1Ymp~iB7u42RVLnUSo33A1Go9z074ujl1rMgkBg8Cnmpg0ZJsUwPkqE3PoiKb8zf5w__
+KBS LIFE,https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTgwNjM3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=bTB55CByehpB~wCuCaGrhKhjXd2Z0PKmIBcvONFI1uyjJFjnoMmNFJleZ5OYgeOqp3Te0Hsm~hJY9d~-j~dFXZYAkYuwLK4vy4UhPKpcBbau1-uqAMsvi0~m-sBfzbpRUCsLwQbDIms8eb~flGGu1qEmzoG5GxCoIlyuvJP0qE9PYCQ3ckmbQBw~ncMT0HsGQQT~EsKXMK-k2xNahAsU14okwd0-3n52AqsA3Nod42EDzoR5ztiPhf0SR9yqZsh5MPmqDmJu3yc2YiSxYhjtHSpAelrVeatmsXkcstGiM5kE70lWMuXWLaAIsTfgNc1U4Lb5PKRyddA9iLtIece~~Q__
+KBS Story,https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTgwNjQwNH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lifaUe8pWjOi5Gql5Zyl9hJejYMCfEfLG1Cf6qL9YzqkSTlXWx6SI7ZBoUe5jXYuA6e2uLnWYeiMvG~PpUHFnCwemtmaMgTPAXWklg-fd4WmzguNhAs3nw4-M8j8pcz-14u~Ob3srt2cqCWeTuENww~aeYbj4YxtjB-ETgNzZDPNo7fGh1Chr85uVus0r5p2M7gMYa-oa0ekuJ8YvZbx~W~veVSFFJm4fHi1Av7V8PNq2TJ0-NjUpZgVYe24sDS6SrSx5NNYnpso--8CgP4JEFFn1eSQ3K1OZv33IOHYNFhx019t1w2VF6qDuhL6jY9gtU~lrWpGf7o99hypdTfIYw__
+KBS WORLD,https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTgwNjQwMn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=H5LobX8rNrHCZ1ZP2j7y3tw~ShJCZ-SJldHQNlEU0VDri1eegrjuahL4oWjGsU5V70XJISbVUi8VUaNIxeK4HBcKtFvrerZClV~e-ABiBro1QUrWfFBuf7MOHMTgyYRKg481qRPkfKvvYCV7GBtEuThg0n3D06QRbgxzitsWzVF6u4HQ7-A3bBytV60wvOHMaI92AgQSTcdI5w9Fg528bbmFet6u4vGieU9HEYylQAAfSdUHBA8DU~PdPcpN0IiRA8tvOZNlMauLN9cicmUrf0x7o0WSz1bzONOTqYV4ps2NbEXoU61ZHMtKajIjYYh9I91jfgksJ6L4IT4ve6ai0g__
+KBS뉴스,https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxODA2MzU5fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LmrzvLjU4nip~LwQ-nYdkQNGglRiIXDcvQiWvKHbPg72UAdK5cJGbOgp1UfUV0JFf-bf6-~H9MH7AZwaF~HIT5LE~wi8OT8NbAPbWSPzJOb4msSgMwdVkyHLeY~UShiJxhHLk5iJMGO-IoRANva3x4AOIaavHGNB00j0PdDwTgrQGshJmBeOlJSyfeJqbVAtLlrtkVtRtfnQWiKzu0bkkdwDh3UO4P-Ub4O8NTj7UyCT4aD8Vx6CTUOYxP6~2-QLZS6ivdXmM545IF5PDdkGEVmUuWj7KvcrpKX3GXg7brMGkzIBkJrtP0KhpDseYAiiyPCaK8WDS62QUdADA7v69g__
+SBS,https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MDMsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijk3NTI1MWVjLTk2ZTEtNDUxNS1hNjQ0LTlkMWM1OGExOGY3OCIsImlhdCI6MTc5MTYzNzIwM30.xSrRRH_dLL7V7uPETYsSkGjim5Ad78M8dJtC-nEEM9k
+SBS플러스,https://tvlive.sbs.co.kr/sbspluspc/sbsplus1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MDYsInBhdGgiOiIvc2JzcGx1czEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0MmMzZjVlMC0yZDFjLTQyMTYtOWNiYi1jN2I0YWJjMTAyZGQiLCJpYXQiOjE3OTE2MzcyMDZ9.5ScaCQXKzemsFlqCrWTmxcd7yMHmqI2l7UsnouWBBgU
+SBS퍼니,https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MTMsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijg1N2Q3MzgzLWE5ODEtNDFmYS05ZGY0LWEzMmVlN2QwN2ViMSIsImlhdCI6MTc5MTYzNzIxM30.Q21UmlT28R86mUaH0Kq0TMLxdYdXcl-652PRaVjTxCs
+SBS LIFE,https://tvlive.sbs.co.kr/sbsfil/sbsfil1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MTYsInBhdGgiOiIvc2JzZmlsMS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijc5YTQ3YzAzLTE5NmQtNGUzZi04ZDUwLTNhZGU4ODcwY2RmNSIsImlhdCI6MTc5MTYzNzIxNn0.5In7emrjcLmbiDkzcl6NO7PYBkDYLRF0xN4maK4DzmY
 SBS KPOP,https://tvlive.sbs.co.kr/sbskpop/sbskpop1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA3NTUyNzcsInBhdGgiOiIvc2Jza3BvcDEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2YWNiOTJkNC05OGE0LTQ3NmUtODZlMC0wM2QzOTEwYjMwMmYiLCJpYXQiOjE3OTA3NDgwNzd9.8VWWfCCv2KNbqSzOX2r7gSnQAH7VeDeHijaL2lysBKk
-SBS골프,https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MjIsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJmNTFkMDM4Ny00NGM0LTRmZDMtYmZjYi03NmFiM2FjYmY2NTkiLCJpYXQiOjE3OTE2MTU2MjJ9.agpTtsMywAI6Ezixe0PxWRPcAxpld6nf5yjZi9gngiA
-SBS Golf2,https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MjUsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZTQwOWNhY2MtNTZiYy00OWYzLWE1MzctMGJlODA1MDYwNzE0IiwiaWF0IjoxNzkxNjE1NjI1fQ.nMy_ltGUEzl39bH5fqEs1EsUE4L-4yLnYNpwsw8CZpk
-SBS스포츠,https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MTIwMTksInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxMGIzZmUzYy1mZWM2LTQ5N2UtYjU0OC00OTgyOTM0MTcwOTMiLCJpYXQiOjE3OTE2MDQ4MTl9.CKmKGJuh0NInESA3QdP-qRlt9kfjOpsZ77sBJQdmFhc
-SBS Biz,https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MjI4MDgsInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzYmFkYzUwZC1lZDhhLTQwODctODNmZC04YTA2ZmEzMTBhZTEiLCJpYXQiOjE3OTE2MTU2MDh9.5JXWUJn5YXgYXzeyapEJmVDEtf9Lapf5hYh_ddqNFmk
+SBS골프,https://tvlive.sbs.co.kr/sbsgolf/sbsgolf1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2MzAwMjUsInBhdGgiOiIvc2JzZ29sZjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJlMDhmNzMxYS1mOTJhLTQyYzEtYTkzMy1kMGJkOTgxNzlhNWIiLCJpYXQiOjE3OTE2MjI4MjV9.o-nsdv7gnW6nGThidKtaTXeszBAeyF4UGHnb8UQxGwI
+SBS Golf2,https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MjcsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiODgyZjA4MWUtMmJhZS00ZWFkLTk2OGQtZDY0NTAyYjgwZDhmIiwiaWF0IjoxNzkxNjM3MjI3fQ.hqUmW8zCOiccUm2PHvrw4Rx-sOw5v0bmvPy7Gy4CR0E
+SBS스포츠,https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MjAsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5YjRlNTU4OS0yNDk4LTRlZGItYTM5Yi01OGE3YTUzNGVmYzUiLCJpYXQiOjE3OTE2MzcyMjB9.3g0ybJFYOpi1dh2wekMvrQKCp9lj8_oS-cZf3_Cxm2w
+SBS Biz,https://tvlive.sbs.co.kr/sbscnbc/sbscnbc1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTE2NDQ0MDksInBhdGgiOiIvc2JzY25iYzEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4ZThhYmEyZi0xZWU4LTRjNWYtOWUzNi01Njg0YzIyNjNiZDAiLCJpYXQiOjE3OTE2MzcyMDl9.XMAfTVAfRYR1iBxSVfGgTqv9p1TY0eRP0K5rdfe0r-0
 MBC,https://backup.760515.xyz/playlist/MBC-playlist.m3u8
-MBC드라마넷,https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6B81B21C13E03F940C4925663F917042D5003D158502922733A0DBaB06B13A268Fa0D35D32020A48A08B30D193bCF1EA396DCD871AD1E2C3F8A69F8D764033A43C0305CAF4605E945631FB157FC836BAB2129F30A668AE2C2AE999A47A27EC1A3429B981FBC6FB0B5EB9577465BCB85FD2D3C85DE8D02A9881398ADC50B419FD&v=3
-MBC에브리원,https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6F618E1C73AD3F949C4C95113AF1EF4F05213B65360CA2E1373056aDF68E3F060DaE43B139128440D0B835519DbB1125BCBBC3C3016382FFB24062FC04C28F37C8B7D21034DA7EC29E45C651BFC61F75FB31C5588A050A33A45AD1399148C37452C28E34096B1EFB1C17CB5DB19E5992EEEB5410AA8E153D907427F90ADAED8E&v=3
-MBC M,https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6301EC1763B43054F249A5363AF1CB4BB5333455860702D03A4064a226A43ED65CaB53EE3BB2F147300231C142b551DE24F55A35EE61419A10B56456A17FE067B4766DA487597950A73B5AFA4E2332E9B66D68F93DF0AD1CAD7CDCEEE30146BC56C28D734AA850CD1A39A374B2C3FE16&v=3
-MBC ON,https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6871AE1E23DD3C04ED4025783101C64CC5843715EC0292E2350076a626E33E9625a723DB3532DE48B023315157bE313996BC940B1C75F1C05DB1346DD18F044F9FA467D9A6FF0E3DD429E296E55D2A7B69594B4ACD2754597EA4309B2E78BF1FD66596A2E5DE755EE180D49E9E1710BB858EBDC3D9F25E8550B08BE1E3BD8437&v=3
-MBCNET,https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=6E810112135C3974CA43D59131212045458539152003824E348096aA36E7324614a8B38B32A2364DB05B3491DAb871C865375F0E5E234FB38A1574357766D4713D7ECCC4537EAAA519FB1E7636E8233CB9793F0A0F3C9EFF8563109689142C76664C2E9D4AEC02E2190DD1E0ADECA5455DF9D4C8B1ABDCC9842EA51DB42DC073&v=3
+MBC드라마넷,https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6061F818C3F633849E4335C23FD18847850D39B5EE0D8285333054a606D933B633aB130C3192B044A0253821CDbDE14403DEF421946A550D8AD7E6CA513E36BCCCA6A6652A74D05C3909462C88952C7E216D1DE490CBF2E9E724DED35036BC5A72B776BF2B877011F45A147CFD8406EAD35FD0E3A320B962945300048A8E8C0C&v=3
+MBC에브리원,https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6E41F31CD3B732A44B4B25FE3111AF4C65443B85E8092293391070a406BC3E869Aa6E3413702764220133F1191b781101277B202A3431C975386962B3F12397765A009DD03E8010A1688595A5743415D3E0B6CC7B14293372E28B85ABBA280F91E5BEBCB06B7E33FD9188884F5404DE4473196BD2CAA31D195D3966476D66F97&v=3
+MBC M,https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=64416817F33D32C40D4EA5AE3761674215B735D5AF0C52BE339023aCE6E535E643aEF3EC32E2B64E00993F112Cb3F11542728BAFA2D693FE506A31365D39252473B161B35994118C96055F25B4842185834C2C26AE516597A3BCBC9C1B8A9E9B1361C0E67C3699457BC7373F9F59D6AF&v=3
+MBC ON,https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6781E314038B3A64524545C63201844B952E37558304620E3D9037a7164331963Da4333F37C25F46E03F3B71EDb43112BABD681F4B698999FCDBBBC7CA83AE9CF2B5CD0BF636216B221E664465475C2B393CAA734ADFFBB66BBF5E9DD09F5296F938DBABCE85B009D88269BA7BA9B40D2B1D278812E3B748AF35EBBF55639AD5&v=3
+MBCNET,https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=63F1A21C83773884BC4245A63BE1C74675213C355A0042C83580AFa91620338681a5D3F63AE25546705A3B61AEb8219D216F1A4C6BD9D75D1A715DACEDFA0AEA702324B9F0D5FE1CA7ACD326BB17E23F620F61FEA6AD2ECEF9B079B75BD6A1524396BEE6774783A9566D061E9F26F4652BCA8F47C2F480613B495778E9AA2155&v=3
 
 한국-기타,#genre#
 아리랑TV,https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
@@ -919,75 +919,71 @@ EBS English,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 한국영화3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 
 中国-央视,#genre#
-CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV5+,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819
-CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
-CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
-CCTV11,http://120.211.62.180:8000/hls/11/index.m3u8
-CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
-CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
-CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
-CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV3,http://182.85.163.86:1234/624878271
+CCTV4,http://182.85.163.86:1234/631780421
+CCTV5,http://182.85.163.86:1234/641886683
+CCTV6,http://182.85.163.86:1234/624878396
+CCTV7,http://182.85.163.86:1234/673168121
+CCTV8,http://182.85.163.86:1234/624878356
+CCTV9,http://182.85.163.86:1234/673168140
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11,http://36.36.238.246:7788/667987558
+CCTV12,http://61.143.43.2:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://182.85.163.86:1234/608807423
+CCTV16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1788093900-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-428c6067a7d2f7bac4683a7267cb0ea4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
+CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
+CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+CCTV央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV世界地理,http://dassby.qqff.top:99/live/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86/index.m3u8
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 中国-卫视,#genre#
 延边卫视,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 延边2台,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 延边1台,https://srs.iyb983.cn/video/CYS/index.m3u8
 北京体育,http://114.242.62.109:888/hls/22/index.m3u8
-黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
-四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
-河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
-河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
-内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
-云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+四川卫视,http://107.150.60.122/live/scwshd.m3u8
+河北卫视,http://182.85.163.86:1234/962042070
+河南卫视,http://182.85.163.86:1234/790187291
+海南卫视,http://36.36.238.246:7788/947472502
+山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://36.36.238.246:7788/738910838
+云南卫视,http://192.151.150.154/live/ynwshd.m3u8
+宁夏卫视,http://182.85.163.86:1234/738910535
+青海卫视,http://36.36.238.246:7788/947472506
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd%3Bhttp://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,http://36.36.238.246:7788/961023778
 
 中国-港台,#genre#
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
+凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8
 TVB无线新闻,http://74.91.26.218:82/live/inews.m3u8
 TVB翡翠,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 TVB明珠,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG6N_9Sxh8KQOfU_hyixKd9p3RIjy9Vegh_fQh33K2M2NZraQQ1HZdgnhMv-nAGJ-d4MbxOxzqnvZPnAic8L4i1ZYyIUsjL0Mb_JYCTfOEeYG4a4ZmNxH1PapVrrrSAMArc5rJg-WYPBvhMY1MKjlc6-X5SNSqoDF5Tup-0St4sKsbOeHdQlunrOCJHDiDSYN2nf8xW_Lta052t6RMBoKETw.m3u8?u=1757123819
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+中视新闻,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
+华视新闻,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
 民视第一,http://74.91.26.218:82/live/ftvdy.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 东森美洲,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
