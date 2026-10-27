@@ -288,18 +288,26 @@ EXCLUDE_NAMES = {
     "东方卫视超清",
 }
 
+# ---- 整个分类不要：该分类下的所有频道都不写入，源里再更新也不会出现 ----
+EXCLUDE_GENRES = {
+    "한국 kbs",
+    "中国-央视",
+    "中国-卫视",
+}
+
 EXCLUDE_URLS = {
     "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8",
     "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_262_03C4258B.m3u8",
     "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8",
     "https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8",
+    # 已删除的 KBS1 / KBS2（以后即使其它源带上这两个地址也不再显示）
+    "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1",
+    "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2",
 }
 
 # ---- 手动补充的频道：源里经常缺失/不稳定，这里保证每次合并都一定会写入 ----
 MANUAL_CHANNELS = [
     # (分类, 频道名, 播放地址)
-    ("韩国频道", "KBS1", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1"),
-    ("韩国频道", "KBS2", "http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2"),
 ]
 
 
@@ -324,6 +332,8 @@ def fetch(url):
 
 def add_channel(genres, genre_order, seen, genre, name, addr):
     if not name or not addr:
+        return
+    if genre in EXCLUDE_GENRES:
         return
     if is_excluded(name, addr):
         return
